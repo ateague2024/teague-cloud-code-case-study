@@ -171,36 +171,35 @@ Because this behavior is dynamic, screenshots only show the visual appearance at
 
 ### Desktop Homepage
 
-![Desktop Homepage](screenshots/desktop-homepage.png)
+![Desktop Homepage](desktop-homepage.png)
 
 ### Mobile Homepage
 
-![Mobile Homepage](screenshots/mobile-homepage.png)
+![Mobile Homepage](mobile-homepage.png)
 
 ### Services Page
 
-![Services Page](screenshots/services.png)
+![Services Page](services.png)
 
 ### Mobile Services Page
 
-![Mobile Services Page](screenshots/mobile-services.png)
+![Mobile Services Page](mobile-services.png)
 
 ### Portfolio Page
 
-![Portfolio Page](screenshots/portfolio.png)
+![Portfolio Page](portfolio.png)
 
 ### Mobile Portfolio Page
 
-![Mobile Portfolio Page](screenshots/mobile-portfolio.png)
+![Mobile Portfolio Page](mobile-portfolio.png)
 
 ### About Page
 
-![About Page](screenshots/about.png)
+![About Page](about.png)
 
 ### Mobile About Page
 
-![Mobile About Page](screenshots/mobile-about.png)
-
+![Mobile About Page](mobile-about.png)
 ---
 
 ## Design Goals
